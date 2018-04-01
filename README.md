@@ -8,13 +8,13 @@ It's a web application to serve content to webpages using services. So, that way
 
 This project uses:
 
-ES6
-ReactJS
-React Router V4 (more info here)
-Jest
-Redux
-Thunk
-Axios
-Bootstrap
-Reactstrap
+- ES6
+- ReactJS
+- React Router V4 (more info here)
+- Jest
+- Redux
+- Thunk
+- Axios
+- Bootstrap
+- Reactstrap
 ... and more in the near future!
